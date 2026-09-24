@@ -1,0 +1,36 @@
+<resources>
+    <!-- Primary brand colors for restaurant booking app -->
+    <color name="colorPrimary">#D97706</color> <!-- Warm amber/orange -->
+    <color name="colorPrimaryVariant">#B45309</color> <!-- Darker amber -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on primary -->
+    
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#059669</color> <!-- Emerald green -->
+    <color name="colorSecondaryVariant">#047857</color> <!-- Darker emerald -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White text on secondary -->
+    
+    <!-- Surface colors -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White surface -->
+    <color name="colorSurfaceVariant">#F5F5F5</color> <!-- Light gray surface -->
+    <color name="colorOnSurface">#1F2937</color> <!-- Dark gray text -->
+    <color name="colorOnSurfaceVariant">#6B7280</color> <!-- Medium gray text -->
+    
+    <!-- Background colors -->
+    <color name="colorBackground">#FAFAFA</color> <!-- Very light gray background -->
+    <color name="colorOnBackground">#1F2937</color> <!-- Dark text on background -->
+    
+    <!-- Container colors -->
+    <color name="colorPrimaryContainer">#FEF3C7</color> <!-- Light amber container -->
+    <color name="colorOnPrimaryContainer">#78350F</color> <!-- Dark amber text on container -->
+    <color name="colorSecondaryContainer">#D1FAE5</color> <!-- Light emerald container -->
+    <color name="colorOnSecondaryContainer">#064E3B</color> <!-- Dark emerald text on container -->
+    
+    <!-- Error colors -->
+    <color name="colorError">#DC2626</color> <!-- Red for errors -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White text on error -->
+    
+    <!-- Legacy colors (kept for compatibility) -->
+    <color name="colorTitle">#1F2937</color> <!-- Dark gray for titles -->
+    <color name="colorButton">#D97706</color> <!-- Primary color for buttons -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- White text on buttons -->
+</resources>

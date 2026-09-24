@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for dark mode. -->
+    <style name="Base.Theme.KedaiMakanKai" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color (same for consistency) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">#78350F</item>
+        <item name="colorOnPrimaryContainer">#FEF3C7</item>
+        
+        <!-- Secondary color -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSecondaryContainer">#064E3B</item>
+        <item name="colorOnSecondaryContainer">#D1FAE5</item>
+        
+        <!-- Surface colors for dark mode -->
+        <item name="colorSurface">#1F2937</item>
+        <item name="colorOnSurface">#F9FAFB</item>
+        <item name="colorSurfaceVariant">#374151</item>
+        <item name="colorOnSurfaceVariant">#D1D5DB</item>
+        
+        <!-- Background colors for dark mode -->
+        <item name="android:colorBackground">#111827</item>
+        <item name="colorOnBackground">#F9FAFB</item>
+        
+        <!-- Error colors -->
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+    </style>
+</resources>
